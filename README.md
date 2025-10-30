@@ -1,4 +1,4 @@
-# Mabed_netecode
+# Mabed_leetcode
 Leetcode problems 
 
 
